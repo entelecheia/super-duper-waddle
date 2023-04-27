@@ -7,6 +7,8 @@
 [![jupyter-book-image]][docs-url]
 
 <!-- Links: -->
+[hyperfast python template]: https://github.com/entelecheia/hyperfast-python-template
+
 [pypi-image]: https://img.shields.io/pypi/v/super-duper-waddle
 [license-image]: https://img.shields.io/github/license/entelecheia/super-duper-waddle
 [license-url]: https://github.com/entelecheia/super-duper-waddle/blob/main/LICENSE
@@ -30,6 +32,8 @@ Super duper waddle projet
 
 Super duper waddle pypi project
 
+
+
 ## Changelog
 
 See the [CHANGELOG] for more information.
@@ -41,3 +45,9 @@ Contributions are welcome! Please see the [contributing guidelines] for more inf
 ## License
 
 This project is released under the [MIT License][license-url].
+
+
+## Table of Contents
+
+```{tableofcontents}
+```
